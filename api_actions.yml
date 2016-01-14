@@ -1,0 +1,4 @@
+actions:
+  - 'format=json&action=query&titles=Cake&prop=revisions&rvstartid=699205147&rvprop=ids&rvlimit=50' 
+  - 'format=json&action=query&titles=Cake&prop=revisions&rvstartid=699205147&rvprop=ids&rvlimit=499'
+  - 'format=json&action=query&titles=Cake&prop=revisions&rvstartid=699205147&rvprop=ids&rvlimit=498'
